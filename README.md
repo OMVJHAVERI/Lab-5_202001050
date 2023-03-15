@@ -1,8 +1,8 @@
 # Lab-5_202001050
 
-## IT314 Software Engineering
+### IT314 Software Engineering
 
-## Lab5 Static Analysis
+### Lab5 Static Analysis
 
 ### Om Jhaveri
 ### 202001050
@@ -13,6 +13,7 @@
 #### Tools:
 
 Pylint: https://github.com/PyCQA/pylint
+
 Pylint is a tool for checking your Python code for errors, code style violations, and other issues. It checks for issues such as unused variables, undefined variables, invalid function names, and more. It also provides suggestions for improving the code, such as suggesting more descriptive variable names or recommending the use of list comprehensions.
 
 
